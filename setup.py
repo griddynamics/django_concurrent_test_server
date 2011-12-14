@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-concurrent-server',
-    version='0.1',
+    version='0.1-gd',
     description='Provides a multi-threaded (concurrent) development sever for Django.',
     # Get more strings from http://www.python.org/pypi?:action=list_classifiers
     url='https://github.com/griddynamics/django_concurrent_test_server',
